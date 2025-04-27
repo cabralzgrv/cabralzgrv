@@ -6,10 +6,10 @@ I have practical experience with Python (Pandas and Numpy), SQL, Power BI, and E
 Since 2023, I have been specializing in Data Science, focusing on Machine Learning, Applied Statistics, and Data Engineering. I graduated in Systems Analysis and Development from Estácio, with projects focused on predictive modeling, performance analysis, and operational efficiency.
 Skills:
 
-SQL
-Python (Pandas, Numpy, Matplotlib, Seaborn, and Scikit-learn)
-DataViz (PowerBI) and Figma
-Excel
+SQL |
+Python (Pandas, Numpy, Matplotlib, Seaborn, and Scikit-learn) |
+DataViz (PowerBI) and Figma |
+Excel |
 Statistics
 
 Feel free to contact me here on LinkedIn or via email!
