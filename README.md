@@ -1,7 +1,19 @@
 # 👋 Hi there
 
-I'm Lucas Cabral
+I'm Lucas Cabral,
 
+I have practical experience with Python (Pandas and Numpy), SQL, Power BI, and Excel, applying data analysis techniques, ETL processes, and visualization to transform large volumes of information into strategic insights. I specialize in creating interactive dashboards, process automation, and applying statistical models for forecasting and optimization of operational and financial indicators.
+Since 2023, I have been specializing in Data Science, focusing on Machine Learning, Applied Statistics, and Data Engineering. I graduated in Systems Analysis and Development from Estácio, with projects focused on predictive modeling, performance analysis, and operational efficiency.
+Skills:
+
+SQL
+Python (Pandas, Numpy, Matplotlib, Seaborn, and Scikit-learn)
+DataViz (PowerBI) and Figma
+Excel
+Statistics
+
+Feel free to contact me here on LinkedIn or via email!
+Email: lucascabralaraujo@outlook.com
 
 
 # 🌐 Socials:
